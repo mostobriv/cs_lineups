@@ -1,5 +1,5 @@
 ### From ct-spawn
-**Throw technique:** shift-run-throw
+**Throw technique:** shift-run-jumpthrow
 **Comment:** встаёшь в левый угол, наводишься как на скрине (на 6 камень нулём), с шифтом идешь, пока прицел не окажется на нижней параллельной линии, кидаешь когда оказался. Можно пробовать вариации с 1 и 2 вместо нуля, но там просто дольше летит, а выигрыша в качестве смока не так уж и много, поэтому лучше быстрее его кидать.
 
-![[mid-con-ctspawn_0.jpg]]![[mid-con-ctspawn_1.jpg]]![[mid-con-ctspawn_2.jpg]]
+![](img/mid-con-ctspawn_0.jpg)![](img/mid-con-ctspawn_1.jpg)![](img/mid-con-ctspawn_2.jpg)

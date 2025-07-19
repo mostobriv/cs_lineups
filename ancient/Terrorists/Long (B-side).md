@@ -1,4 +1,4 @@
 ### From double-door
-**Throw technique:** jump-throw
+**Throw technique:** jumpthrow
 
 ![[cave-doubledoor_0.jpg]]![[long-doubledoor_0.jpg]]![[long-doubledoor_1.jpg]]

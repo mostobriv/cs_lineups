@@ -1,7 +1,5 @@
 ### From pit
-**Throw technique:** run-throw
+**Throw technique:** run-jumpthrow  
 **Comment:** всё стоя делается
 
-![[stairs-a-side-pit_0.jpg]]
-![[stairs-a-side-pit_3.jpg]]
-![[stairs-a-side-pit_4.jpg]]
+![](img/stairs-a-side-pit_0.jpg)![](img/stairs-a-side-pit_3.jpg)![](img/stairs-a-side-pit_4.jpg)

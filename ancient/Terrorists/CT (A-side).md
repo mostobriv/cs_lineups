@@ -1,5 +1,5 @@
 ### From stairs (a-main)
-**Throw technique:** jump-throw
+**Throw technique:** jumpthrow
 **Comment:** встаешь до упора в угол, наводишься так, чтобы черта 2 продолжала грань кирпича, кидаешь
 
 ![[ct-stairs_0.jpg]]
